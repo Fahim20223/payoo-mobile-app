@@ -18,6 +18,6 @@ document.getElementById("btn-login").addEventListener("click", function (e) {
     // console.log("Right Number");
     window.location.href = "./home.html";
   } else {
-    alert("Ei bhaia chok khuli likhteso naki");
+    alert("Invalid Information");
   }
 });
